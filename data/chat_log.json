@@ -1,0 +1,32 @@
+[
+    {
+        "player": 1,
+        "text": "Joga ai",
+        "timestamp": "2025-06-03T12:53:40+00:00"
+    },
+    {
+        "player": 2,
+        "text": "Blz",
+        "timestamp": "2025-06-03T12:53:44+00:00"
+    },
+    {
+        "player": 2,
+        "text": "Fala mano",
+        "timestamp": "2025-06-03T13:45:53+00:00"
+    },
+    {
+        "player": 1,
+        "text": "diz fela",
+        "timestamp": "2025-06-03T13:46:27+00:00"
+    },
+    {
+        "player": 2,
+        "text": "teste",
+        "timestamp": "2025-06-12T17:42:13+00:00"
+    },
+    {
+        "player": 1,
+        "text": "teste",
+        "timestamp": "2025-06-12T17:46:49+00:00"
+    }
+]

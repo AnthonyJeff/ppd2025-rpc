@@ -1,0 +1,45 @@
+{
+    "turn": 1,
+    "placingPhase": true,
+    "player1Count": 6,
+    "player2Count": 6,
+    "player1Captures": 0,
+    "player2Captures": 0,
+    "board": [
+        [
+            "P1",
+            "P2",
+            "P1",
+            null,
+            "P2"
+        ],
+        [
+            "P2",
+            "P1",
+            null,
+            null,
+            null
+        ],
+        [
+            "P2",
+            "P1",
+            null,
+            null,
+            "P2"
+        ],
+        [
+            "P1",
+            "P2",
+            null,
+            null,
+            null
+        ],
+        [
+            "P1",
+            null,
+            null,
+            null,
+            null
+        ]
+    ]
+}

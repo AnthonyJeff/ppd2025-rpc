@@ -1,0 +1,47 @@
+{
+    "turn": 1,
+    "placingPhase": true,
+    "player1Count": 0,
+    "player2Count": 0,
+    "player1Captures": 0,
+    "player2Captures": 0,
+    "board": [
+        [
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null
+        ]
+    ],
+    "winner": 1,
+    "reason": "giveup"
+}
